@@ -1,0 +1,24 @@
+{
+  "name": "is-emoji",
+  "version": "0.0.0",
+  "description": "Simple module to testing emoji characters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:smurthas/is-emoji.git"
+  },
+  "keywords": [
+    "emoji",
+    "text",
+    "string"
+  ],
+  "author": "Simon Murtha Smith <simon@murtha-smith.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smurthas/is-emoji/issues"
+  },
+  "homepage": "https://github.com/smurthas/is-emoji"
+}
