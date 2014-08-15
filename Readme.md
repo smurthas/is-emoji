@@ -1,4 +1,4 @@
-# is-emoji
+# is-emoji [![Build Status](https://travis-ci.org/smurthas/is-emoji.svg?branch=master)](https://travis-ci.org/smurthas/is-emoji)
 
 Simple enough:
 
