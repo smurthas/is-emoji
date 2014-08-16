@@ -1,6 +1,8 @@
 var fs = require('fs');
+var path = require('path');
 
-var file = fs.readFileSync('./emoji-data-short.txt', {encoding: 'utf8'});
+var dataFileName = path.join(__dirname, 'emoji-data-short.txt');
+var file = fs.readFileSync(dataFileName, {encoding: 'utf8'});
 
 var lines = file.split('\n');
 lines.pop();
